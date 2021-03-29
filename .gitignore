@@ -1,3 +1,3 @@
-.yml
-.yaml
-.txt
+*.yml
+*.yaml
+*.txt
