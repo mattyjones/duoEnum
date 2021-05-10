@@ -1,0 +1,12 @@
+[user]
+	email = urlugal@gmail.com
+	name = Matty
+	signingKey = ""
+[commit]
+	gpgsign = false
+[gpg]
+	program = gpg
+[mergetool]
+	keepBackup = true
+[tag]
+	forceSignAnnotated = false
