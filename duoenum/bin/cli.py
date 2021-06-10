@@ -16,6 +16,7 @@ def duoenum():
 
 
 duoenum.add_command(command.check_host.init_check_host)
+duoenum.add_command(command.enroll_user.init_enroll_user)
 # duoenum.add_command(command.write_policy.write_policy)
 # duoenum.add_command(command.create_template.create_template)
 # duoenum.add_command(command.query.query)
