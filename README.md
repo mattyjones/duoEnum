@@ -1,6 +1,6 @@
 # DuoEnum
 
-1. Check the endpoints
+1. Check the hosts
 2. Check the key type
 3. Dump all users
 4. List out the admins

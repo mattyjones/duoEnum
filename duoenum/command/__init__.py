@@ -1,1 +1,1 @@
-from duoenum.command import check_endpoint
+from duoenum.command import check_host
